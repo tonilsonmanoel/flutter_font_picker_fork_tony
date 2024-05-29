@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_font_picker/src/constants/translations.dart';
+import 'package:flutter_font_picker_fork_tony/src/constants/translations.dart';
 import 'package:google_fonts/google_fonts.dart';
 
 class FontPreview extends StatelessWidget {

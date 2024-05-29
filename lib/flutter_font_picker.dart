@@ -35,5 +35,5 @@
 /// ```
 library flutter_font_picker;
 
-export 'package:flutter_font_picker/src/models/picker_font.dart';
-export 'package:flutter_font_picker/src/ui/font_picker.dart';
+export 'package:flutter_font_picker_fork_tony/src/models/picker_font.dart';
+export 'package:flutter_font_picker_fork_tony/src/ui/font_picker.dart';

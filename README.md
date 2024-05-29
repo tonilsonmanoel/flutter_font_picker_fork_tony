@@ -2,6 +2,7 @@
 
 ## A Flutter widget that lets the user select and apply a Google Font from a custom dropdown.
 
+flutter_font_picker_fork:  [flutter_font_picker](https://pub.dev/packages/flutter_font_picker)
 
 <p align="center">
 <img width="40%" src="https://user-images.githubusercontent.com/9117427/129091647-549ab203-501b-4654-9d1c-da74f494cb07.gif"/>

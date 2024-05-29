@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_font_picker/flutter_font_picker.dart';
+import 'package:flutter_font_picker_fork_tony/flutter_font_picker.dart';
 
 void main() {
   runApp(const MyApp());
